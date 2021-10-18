@@ -17,7 +17,8 @@ const Info = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-
+    transition: all 500ms ease;
+    cursor: pointer;
 `
 
 const Container = styled.div`
