@@ -43,34 +43,27 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        img: "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
     },
     {
         id: 2,
-        img: "",
+        img: "https://i.pinimg.com/originals/56/fd/17/56fd178072129c8eaf5dc1460d587d7a.png",
     },
     {
         id: 3,
-        img: "",
+        img: "https://www.pngall.com/wp-content/uploads/5/Shirt-PNG-Image-HD.png",
     },
     {
         id: 4,
-        img: "",
+        img: "https://www.pngall.com/wp-content/uploads/5/Shirt-PNG-Image.png",
     },
     {
         id: 5,
-        img: "",
+        img: "https://i.pinimg.com/originals/61/d4/11/61d411ccee2768f3778d3871558ca2c3.png",
     },
     {
         id: 6,
-        img: "",
+        img: "https://cf.camisetasfutbol.com.cn/upload/ttmall/img/20210824/136db3a792c4f1d6c6b94421f4dabe24.png",
     },
-    {
-        id: 7,
-        img: "",
-    },
-    {
-        id: 8,
-        img: "",
-    },
+   
 ]
